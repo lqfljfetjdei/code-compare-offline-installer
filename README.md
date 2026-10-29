@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Diff+Tool-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Code Compare Free Installer** — Code Compare is a professional file and folder comparison tool for Windows that integrates with Visual Studio and VS Code. Works without internet access, no account required. Full offline installation.
+**💻 Code Compare Free Installer** — Code Compare is a Windows file and folder comparison and merge tool with deep Visual Studio integration. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Code Compare
 
-Code Compare is a professional file and folder comparison tool for Windows that integrates with Visual Studio and VS Code. Features three-way merge, folder synchronization, and syntax highlighting for many programming languages. Used by development teams for code review, merging branches, and comparing configuration files, Code Compare provides a dedicated diffing solution within the Windows ecosystem.
+Code Compare is a Windows file and folder comparison and merge tool with deep Visual Studio integration. It provides syntax-aware diffing for code files, three-way merge, and a folder comparison mode — targeting developers on the Windows ecosystem.
 
 ---
 
 ## ❌ Problem: Code Compare is hard to access
 
-- **Windows Only** — No macOS or Linux support
-- **Commercial License** — Pro features require paid license
-- **VS Code Competition** — Many developers use VS Code's built-in diff for basic comparisons
-- **Integration Setup** — Visual Studio integration requires additional configuration
+- **Windows Primary** — Visual Studio integration limited to Windows development workflows
+- **Paid License** — Full features require professional license
+- **Competition** — Beyond Compare and Araxis Merge offer similar features cross-platform
+- **VS Integration Only** — Heavy Visual Studio focus limits standalone value
 
 ---
 
@@ -121,7 +121,7 @@ Code Compare is a professional file and folder comparison tool for Windows that 
 
 ---
 
-**Code Compare Free Installer** — Code Compare is a professional file and folder comparison tool for Windows that integrates with Visual Studio and VS Code. Install without internet connection today!
+**Code Compare Free Installer** — Code Compare is a Windows file and folder comparison and merge tool with deep Visual Studio integration. Install without internet connection today!
 
 <div align="center">
 
